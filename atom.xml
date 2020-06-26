@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://acfgdev.github.io</id>
+    <title>A中文字幕组官方社区</title>
+    <updated>2020-06-26T02:19:25.191Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://acfgdev.github.io"/>
+    <link rel="self" href="https://acfgdev.github.io/atom.xml"/>
+    <subtitle>ACFG</subtitle>
+    <logo>https://acfgdev.github.io/images/avatar.png</logo>
+    <icon>https://acfgdev.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, A中文字幕组官方社区</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://acfgdev.github.io/about/</id>
+        <link href="https://acfgdev.github.io/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到A中文字幕组官方社区</p>
+</blockquote>
+<h2 id="关于本社区">🏠 关于本社区</h2>
+<p>A中文字幕组官方社区</p>
+<h2 id="我们是谁">👨‍💻 我们是谁</h2>
+<p>一群对翻译有信仰的普通人</p>
+<h2 id="联系我们">📬 联系我们</h2>
+<p>我们的邮箱:wancnself@163.com（国内）yxmzaishanghai@outlook.com(海外）</p>
+]]></content>
+    </entry>
+</feed>
