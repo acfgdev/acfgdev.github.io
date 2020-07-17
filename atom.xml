@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://acfgdev.github.io</id>
     <title>一个中文字幕组官方社区</title>
-    <updated>2020-07-17T04:05:31.442Z</updated>
+    <updated>2020-07-17T04:07:30.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://acfgdev.github.io"/>
     <link rel="self" href="https://acfgdev.github.io/atom.xml"/>
@@ -17,10 +17,10 @@
         </link>
         <updated>2019-12-31T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到A中文字幕组官方社区</p>
+<p>欢迎来到一个中文字幕组官方社区</p>
 </blockquote>
 <h2 id="关于本社区">🏠 关于本社区</h2>
-<p>A中文字幕组官方社区</p>
+<p>一个中文字幕组官方社区</p>
 <h2 id="我们是谁">👨‍💻 我们是谁</h2>
 <p>一群对翻译有信仰的普通人</p>
 <h2 id="联系我们">📬 联系我们</h2>
